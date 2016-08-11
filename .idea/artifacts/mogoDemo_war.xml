@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mogoDemo:war">
+    <output-path>$PROJECT_DIR$/mogoDemo/target</output-path>
+    <root id="archive" name="project.war">
+      <element id="artifact" artifact-name="mogoDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
